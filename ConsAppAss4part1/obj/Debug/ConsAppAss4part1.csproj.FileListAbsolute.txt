@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\bin\Debug\ConsAppAss4part1.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\bin\Debug\ConsAppAss4part1.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\bin\Debug\ConsAppAss4part1.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\obj\Debug\ConsAppAss4part1.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\obj\Debug\ConsAppAss4part1.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\obj\Debug\ConsAppAss4part1.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4part1\ConsAppAss4part1\obj\Debug\ConsAppAss4part1.pdb
